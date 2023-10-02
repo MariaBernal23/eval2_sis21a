@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216870614772",
+    "project_id": "evalucion2-dsw21a",
+    "storage_bucket": "evalucion2-dsw21a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216870614772:android:8755176cdebcfe30d090a1",
+        "android_client_info": {
+          "package_name": "com.MariaMichelitca.eval2_sis21a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1h_V_1YbpHSF46TmN9mcPRaLHWR6kRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216870614772:android:74c128164a7d5682d090a1",
+        "android_client_info": {
+          "package_name": "com.michelitca.eval2_sist21a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1h_V_1YbpHSF46TmN9mcPRaLHWR6kRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

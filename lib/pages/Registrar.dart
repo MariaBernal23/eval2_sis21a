@@ -34,12 +34,6 @@ TextEditingController StockController = TextEditingController();
                 decoration: InputDecoration(
                   filled: true,
                   fillColor: Colors.grey[200],
-                  prefixIcon: Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Image.asset('img/insignia.png',
-                    width: 5,
-                    height: 5,),
-                  ),
                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(10)),
                   labelText: 'ID',
                   hintText: 'Ingrese el ID del producto'
@@ -52,12 +46,6 @@ TextEditingController StockController = TextEditingController();
                 decoration: InputDecoration(
                   filled: true,
                   fillColor: Colors.grey[200],
-                  prefixIcon: Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Image.asset('img/productos.png',
-                    width: 5,
-                    height: 5,),
-                  ),
                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(10)),
                   labelText: 'Nombre',
                   hintText: 'Ingrese el nombre del producto'
@@ -70,7 +58,6 @@ TextEditingController StockController = TextEditingController();
                 decoration: InputDecoration(
                   filled: true,
                   fillColor: Colors.grey[200],
-                  prefixIcon: const Icon(Icons.attach_money),
                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(10)),
                   labelText: 'Precio',
                   hintText: 'Ingrese el precio del producto'
@@ -83,12 +70,6 @@ TextEditingController StockController = TextEditingController();
                 decoration: InputDecoration(
                   filled: true,
                   fillColor: Colors.grey[200],
-                  prefixIcon: Padding(
-                    padding: const EdgeInsets.all(8.0),
-                    child: Image.asset('img/stock.png',
-                    width: 5,
-                    height: 5,),
-                  ),
                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(10)),
                   labelText: 'Stock',
                   hintText: 'Ingrese el stock del producto'
